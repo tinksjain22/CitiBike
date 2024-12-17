@@ -4,7 +4,7 @@
 
 Welcome to the Citi Bike Analysis Dashboard! This project provides a comprehensive analysis of the New York Citi Bike program, the largest bike-sharing initiative in the United States. The dashboard was created to assist city officials and stakeholders in understanding key trends, optimizing resources, and improving the program's overall performance.
 
-The dashboard is publicly available on Tableau Public: ![Link with more info with various formatting options]([https://public.tableau.com/app/profile/tinkle.jain/viz/CitiBikeAnalysis_17344146310290/FinalPresentation])
+The dashboard is publicly available on Tableau Public: [Link with more info with various formatting options](https://public.tableau.com/app/profile/tinkle.jain/viz/CitiBikeAnalysis_17344146310290/FinalPresentation)
 
 
 ## Project Goals
